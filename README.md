@@ -1,6 +1,20 @@
 # Key_Soccer_Striker_performance_analysis
+As a group of data analysts, we have been hired by the 'World Soccer' sports magazine.
+Amid the thrilling matches of the FIFA World Cup, the management wants us to release a detailed report on Cristiano Ronaldo using data driven insights to attract and engage the audience
 
-<h4> Detailed description of the data set(s) and how they were acquired:</h4>
+Our main objectives for this project:
+
+    1. How has Manchester United's performance been over the last 20 years and how has Ronaldo been a huge contribution.
+    
+    2. Determine how playing matches on the home ground affected the winni-ng probability for Manchester Untited during the period where Ronaldo  played for them  vs the period he did not.
+    
+    We are interested in analysing how Ronaldo's performance boosted Manchester United's winning probability when was playing at the home ground. We will  be comparing the percentages between (2003-2009) and remaining seasons data for the club as a metric to add value.
+    
+    3. What does the trajectory of Ronaldo's career look like?
+   
+    4. Drilling down to one his best performances in a season i.e 2017/18  for Real Madrid, we try to analyse the pattern of how he scores goals.
+ 
+<h3> Detailed description of the data set(s) and how they were acquired:</h3>
 
 
 <h5>1. Premier league matches Dataset </h5>
